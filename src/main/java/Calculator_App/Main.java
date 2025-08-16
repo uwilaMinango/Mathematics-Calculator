@@ -45,6 +45,7 @@ public class Main {
                 System.out.println(ops.division(num1, num2));
                 break;
             }
+            System.out.println(ops.average());
 
         }
     }
