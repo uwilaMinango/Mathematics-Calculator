@@ -46,7 +46,7 @@ public class Main {
                 break;
             }
             System.out.println(ops.average());
-            System.out.println("This calculator will be amazing!q");
+            System.out.println("This calculator will be amazing!");
 
         }
     }
