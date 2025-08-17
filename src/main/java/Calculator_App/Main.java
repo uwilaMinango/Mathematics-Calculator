@@ -48,6 +48,9 @@ public class Main {
             System.out.println(ops.average());
             System.out.println("This calculator will be amazing!");
 
+            Adding_Single obj = new Adding_Single();
+            obj.demo();
+
         }
     }
 }
